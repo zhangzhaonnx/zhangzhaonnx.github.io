@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
+title:  大鱼海棠
 subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
+name: 纯洁的微笑
 email: ityouknow@126.com
 description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
-favicon: favicon.ico 
+favicon: favicon.ico
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
+repository: zhangzhaonnx/zhangzhaonnx.github.io
+github_url: https://github.com/zhangzhaonnx
+url: https://zhangzhaonnx.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
@@ -69,7 +69,7 @@ menus:
   -
     href: /zsxq.html
     label: 挣钱
-    target: _self   
+    target: _self
 
   -
     href: /life.html
@@ -118,7 +118,7 @@ navs:
     target: _self
 
   -
-    
+
     href: http://www.justdojava.com
     label: Java
     target: _blank
@@ -127,14 +127,14 @@ navs:
       -
         subHref: /java.html
         subLabel: Jvm 系列文章
-        
+
       -
         subHref: http://www.justdojava.com
         subLabel: Java 极客技术
         target: _blank
 
   -
-    
+
     href: /python.html
     label: Python
     subnav:
@@ -142,7 +142,7 @@ navs:
       -
         subHref: /python.html
         subLabel: Python 教程
-        
+
       -
         subHref: http://www.justdopython.com
         subLabel: Python 技术
@@ -160,7 +160,7 @@ labels:
 
   -
     href: /payment.html
-    label: Pay     
+    label: Pay
     target: _self
 
   -
@@ -180,7 +180,7 @@ labels:
 
   -
     href: /open-source.html
-    label: Code  
+    label: Code
     target: _blank
 
   -
