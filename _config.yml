@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: zhangzhaonnx/zhangzhaonnx.github.io
 github_url: https://github.com/zhangzhaonnx
-url: https://zhangzhaonnx.github.io
-enforce_ssl: ityouknow.com
+url: www.fryroc.com
+enforce_ssl: fryroc.com
 
 ## Gem
 plugins:
